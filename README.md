@@ -5,7 +5,7 @@
 ## 📱 Screenshots
 | Home Screen | Search | Recipe Details | Favorites |
 |:---:|:---:|:---:|:---:|
-| <img src="path/to/ss1.png" width="200"/> | <img src="path/to/ss2.jpeg" width="200"/> | <img src="path/to/ss3.png" width="200"/> | <img src="path/to/ss4.png" width="200"/> |
+| <img src="path/toss1.png" width="200"/> | <img src="ss2.jpeg" width="200"/> | <img src="path/to/ss3.png" width="200"/> | <img src="path/to/ss4.png" width="200"/> |
 
 ## ✨ Key Features
 
